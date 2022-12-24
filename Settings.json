@@ -1,31 +1,31 @@
 ﻿ [
-  {
-   
+    {
+
     "title":"google play التقييم",
     "provider":"custom",
     "image":"https://mhmed12020007.files.wordpress.com/2020/06/index0-1.jpg",
     "arguments":[
-      "https://play.google.com/store/apps/details?id=com.mhmed120.cartoonfun",
-      "url"
+    "https://play.google.com/store/apps/details?id=com.mhmed120.cartoonfun",
+    "url"
     ]
-  },
-  
- {
-    "title":"التقييم من galaxystore",
-   "provider":"custom",
+    },
+
+    {
+    "title":"المزيد من التطبيقات  ",
+    "provider":"custom",
     "image":"https://mhmed12020007.files.wordpress.com/2020/06/index-1.jpg",
     "arguments":[
-      "http://apps.samsung.com/mars/appquery/appDetail.as?appId=com.mhmed120.cartoonfun",
-      "url"
+    "https://play.google.com/store/apps/developer?id=mhmed120",
+    "url"
     ]
-  },
-  
- {
+    },
+
+    {
     "title":"سياسة الخصوصية وشروط الإستخدام",
     "provider":"overview",
     "image":"https://mhmed12020007.files.wordpress.com/2020/05/privacy.png",
     "arguments":[
-      "https://raw.githubusercontent.com/abr120/videonline/master/Newfolder/privacypolicy.json"
+    "https://raw.githubusercontent.com/abr120/cartoonfun/master/privacypolicy.json"
     ]
-  }
-]
+    }
+    ]

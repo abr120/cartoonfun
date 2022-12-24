@@ -1,38 +1,90 @@
-﻿[
-  {
- 
-  
-"title":"Learntosew ",
-    "drawable":"ic_girls",
+﻿   [
+    {
+
+
+    "title":"Frame Order",
+    "drawable":"ic01",
     "submenu":"",
     "iap":false,
     "tabs":[
-      {
-        "title":"",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/abr120/cartoonfun/master/laday.json"
-        ]
-      }
+    {
+    "title":"",
+    "provider":"overview",
+    "arguments":[
+    "https://raw.githubusercontent.com/abr120/cartoonfun/master/Frame.json"
     ]
-  },
-  
-  
+    }
+    ]
+    },
+
+    {
 
 
-  {
+    "title":"Learntosew ",
+    "drawable":"ic02",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+    {
+    "title":"",
+    "provider":"overview",
+    "arguments":[
+    "https://raw.githubusercontent.com/abr120/cartoonfun/master/laday.json"
+    ]
+    }
+    ]
+    },
+    {
+
+
+    "title":"Learntosew ",
+    "drawable":"ic03",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+    {
+    "title":"",
+    "provider":"overview",
+    "arguments":[
+    "https://raw.githubusercontent.com/abr120/cartoonfun/master/laday.json"
+    ]
+    }
+    ]
+    },
+    {
+
+
+    "title":"tom",
+    "drawable":"ic04",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+    {
+    "title":"",
+    "provider":"overview",
+    "arguments":[
+    "https://raw.githubusercontent.com/abr120/cartoonfun/master/tom.json"
+    ]
+    }
+    ]
+    },
+
+
+
+
+    {
     "title":"التقييم والطلبات",
     "drawable":"ic_rate",
     "submenu":"التواصل معنا والتقييم",
     "iap":false,
     "tabs":[
-      {
-        "title":"التقييم وطلب الكرتون",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/abr120/cartoonfun/master/Settings.json"
-        ]
-      }
+    {
+    "title":"التقييم وطلب الكرتون",
+    "provider":"overview",
+    "arguments":[
+    "https://raw.githubusercontent.com/abr120/cartoonfun/master/Settings.json"
     ]
-  }
-]
+    }
+    ]
+    }
+    ]
